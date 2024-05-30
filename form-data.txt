@@ -1,6 +1,0 @@
-Name: Test
-Contact: 8989876789
-Email: dwqdk@lkdmcmd.c
-Subject: Test
-Message: 
-
